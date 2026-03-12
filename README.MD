@@ -1,4 +1,4 @@
-# 📦 Sistema de optimización de inventario
+#  Sistema de optimización de inventario
 
 Este proyecto desarrolla un motor de decisión automatizado para la gestión de inventarios, resolviendo el equilibrio crítico entre el **capital de trabajo** y el **nivel de servicio**. 
 
@@ -13,7 +13,7 @@ Este sistema utiliza **Inteligencia de Datos** para automatizar el "Cuándo" y e
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 - **Lenguaje:** Python 
 - **Librerías:** Pandas, Numpy, Faker (Datos Sintéticos)
 - **Base de Datos:** SQLite (Esquema de Estrella)
