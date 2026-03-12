@@ -72,7 +72,7 @@ El reporte en Power BI permite:
 
 ---
 # Clonar el proyecto
-git clone https://github.com/TU_USUARIO/inventario-pro-2026.git
+git clone https://github.com/Dupskops/Inventario_predictivo.git
 cd inventario-pro-2026
 
 # Crear y activar entorno virtual
