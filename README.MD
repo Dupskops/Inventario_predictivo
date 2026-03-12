@@ -1,4 +1,4 @@
-#  Sistema de optimización de inventario
+#  Sistema de optimización de inventari
 
 Este proyecto desarrolla un motor de decisión automatizado para la gestión de inventarios, resolviendo el equilibrio crítico entre el **capital de trabajo** y el **nivel de servicio**. 
 
